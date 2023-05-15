@@ -12,4 +12,7 @@
     "discord.js": "^14.11.0",
     "mineflayer": "^4.8.1"
   }
+  "engines": {
+    "node": ">=16.9"
+  }
 }
