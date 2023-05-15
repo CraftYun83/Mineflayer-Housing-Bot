@@ -1,6 +1,4 @@
 const mineflayer = require('mineflayer')
-const { mineflayer: mineflayerViewer } = require('prismarine-viewer')
-const registry = require('prismarine-registry')('1.8')
 const { Client, GatewayIntentBits } = require('discord.js');
 const client = new Client({
   intents: [
